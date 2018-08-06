@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -n  Instert Your Result:
+echo -n  Insert Your Result:
 
 read angka
 if 	(($angka>70))
